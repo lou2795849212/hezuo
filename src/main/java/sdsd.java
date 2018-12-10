@@ -2,6 +2,7 @@ import java.io.Serializable;
 
 public class sdsd implements Serializable{
     /*ssssssssssssssssssssssssssss*/
+    //还想不想干了 写的这是什么 啊！！ 明天滚蛋把
     private String name;
     private String pwd;
 
