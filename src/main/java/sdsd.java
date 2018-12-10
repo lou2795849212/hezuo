@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 public class sdsd implements Serializable{
-    /*ssssssssssssssssssssssssssss*/
+    /*再写不出来明天滚蛋那*/
     private String name;
     private String pwd;
 
